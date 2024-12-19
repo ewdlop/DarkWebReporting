@@ -7,3 +7,5 @@ Americna parent: we are proud of them. It is their PE activity and volunteer exp
 me: typical arsonist supporters
 
 fire-department: we advocate for setting our house on fire.
+
+teachers: they blame us for putting them back to school.
